@@ -4,7 +4,7 @@
 You can interact with the live Control Tower directly in your browser (no download required):
 👉 [**View the Interactive Excel Dashboard Here**](https://1drv.ms/x/c/c497cb947e251d94/IQBYKsmp4FRdTr1axudcmHxKAcSNpC08p9YSZ4zIF_aGIUM?e=p0jD55)
 
-*Alternatively, you can download the raw `.xlsx` file directly from this repository [here](./EMEA_Supply_Chain_Control_Tower.xlsx) to review the backend data modeling and formulas.*
+*Alternatively, you can download the raw `.xlsx` file directly from this repository [here](./EMEA_Supply_Chain_Dashboard.xlsx) to review the backend data modeling and formulas.*
 
 ### Project Overview
 This project is an end-to-end data pipeline and interactive dashboard built entirely in native Microsoft Excel. It processes over 50,000 rows of messy logistics data to track 3PL carrier SLA performance, identify origin warehouse claim trends, and monitor a €5.6M financial leakage from overbilling. 
