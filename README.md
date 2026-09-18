@@ -33,3 +33,9 @@ This Control Tower enables supply chain executives to:
 1. **Recoup Lost Revenue:** Pinpoint the exact months and carriers driving a €5.6M overbilling leakage to initiate financial audits.
 2. **Hold Carriers Accountable:** Use hard data to negotiate better rates or enforce SLA penalties based on severe on-time delivery failures.
 3. **Optimize Warehouse Operations:** Identify which specific origin distribution centers are driving the highest rates of damaged and lost freight.
+
+### 🔗 Related Projects: SQL & Tableau Version
+This repository demonstrates how to build a robust data pipeline and dashboard using strictly **native Advanced Excel**. 
+
+I have also tackled EMEA supply chain optimization using an enterprise tech stack. To see how I handled similar logistics data using **SQL for data engineering** and **Tableau for visualization**, check out my other repository here: 
+👉 [EMEA Supply Chain Optimisation](https://github.com/YourUsername/emea-supply-chain-optimisation)
