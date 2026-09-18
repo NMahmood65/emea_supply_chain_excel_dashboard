@@ -38,4 +38,4 @@ This Control Tower enables supply chain executives to:
 This repository demonstrates how to build a robust data pipeline and dashboard using strictly **native Advanced Excel**. 
 
 I have also tackled EMEA supply chain optimization using an enterprise tech stack. To see how I handled similar logistics data using **SQL for data engineering** and **Tableau for visualization**, check out my other repository here: 
-👉 [EMEA Supply Chain Optimisation](https://github.com/YourUsername/emea-supply-chain-optimisation)
+👉 [EMEA Supply Chain Optimisation](https://github.com/NMahmood65/emea_supply_chain_optimisation/blob/main/README.md)
